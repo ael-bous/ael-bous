@@ -1,7 +1,3 @@
-<h2 align="left">Hi 👋! My name is Ayoub El Bousairi</h2>
-<h2 and I'm a Web Full Stack Developer, from Morocco</h2>
-
-###
 
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdqMWJmdXV1Z3JzZ2JjNHRyZTd2dHMzbDJva3JodXZzazlpNGJ1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"  />
 
