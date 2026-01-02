@@ -4,7 +4,7 @@
 
 ### 💻 Full Stack Developer | 1337 Coder | Problem Solver
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Laravel+Enthusiast;Always+learning+new+things;1337+Coding+School+Student" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Laravel+MySQL;Always+learning+new+things;Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad." alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayoub-el-bousairi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elbousairiayoub@gmail.com)
